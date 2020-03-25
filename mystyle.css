@@ -1,8 +1,33 @@
 body {
   background-color: lightblue;
 }
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 20px;
+  }
+  th{
+  background-color:coral;
+  }
+  td{
+    text-align:center;
+    padding: 20px;
+  }
+  td.row2 {
+  padding: 50px;
+  }
+#section1 {
+  background-color: blue;
+  }
+ #section2 {
+  background-color: red;
+  }
+ #section3 {
+  background-color: yellow;
+  }
+ #section4 {
+  background-color: green;
+  }
+ #section5 {
+  background-color: orange;
+  }
