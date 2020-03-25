@@ -6,6 +6,9 @@ table, th, td {
   border-collapse: collapse;
   padding: 20px;
   }
+table{
+  width:100%;
+}
   th{
   background-color:coral;
   }
