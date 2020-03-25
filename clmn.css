@@ -17,6 +17,9 @@
 #sec3 {
 padding: 42px;
 }
+#sec4{
+ background-color:blue; 
+}
 
 [class*="col-"] {
   float: left;
